@@ -1,0 +1,37 @@
+Program Author: Modupe Bamiduro
+
+#Purpose
+- This program simulates the attempted escape by our heroes and the rescue attempts by the Ninjas, as well as the efforts of the snorcs and giant snorcs to stop them
+
+
+
+#List of Source Files
+    - Escape.cc
+    - Hero.cc
+    - Participant.cc
+    - main.cc
+    - MoveBehaviour.cc 
+    - Ninja.cc 
+    - random.cc
+    - Snorc.cc
+    - README.txt
+    - Makefile
+
+#List of Header Files   
+    - Escape.h
+    - Hero.h
+    - List.h 
+    - Participant.h 
+    - MoveBehaviour.h 
+    - Ninja.h 
+    - Snorc.h
+    - defs.h 
+
+#Compiling Instructions
+    - Open the directory of the assignment and execute the command
+        >make
+
+#Launching Instructions
+    -Execute the command in the terminal:
+        >./a5
+

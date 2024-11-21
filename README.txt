@@ -1,7 +1,7 @@
 Program Author: Modupe Bamiduro
 
 #Purpose
-- This program simulates the attempted escape by our heroes and the rescue attempts by the Ninjas, as well as the efforts of the snorcs and giant snorcs to stop them
+- This program simulates the attempted escape by of two heroes, Timmy the Turtle and Harold the Hare, and the rescue attempts by the Ninjas, as well as the efforts of the snorcs(s) and giant snorcs(S) to stop them. 
 
 
 
